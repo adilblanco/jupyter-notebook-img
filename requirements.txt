@@ -1,0 +1,16 @@
+rtree==0.9.7
+fiona
+pyproj
+shapely
+jupyter
+pandas
+requests
+python-dotenv
+geopandas==0.9.0
+nb_black
+
+mock
+pytest
+responses~=0.16.0
+PyHamcrest
+pytest-cov
