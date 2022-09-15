@@ -9,6 +9,11 @@ python-dotenv
 geopandas==0.9.0
 nb_black
 
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib
+
+
 mock
 pytest
 responses~=0.16.0
