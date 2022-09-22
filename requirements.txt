@@ -16,6 +16,7 @@ google-auth-oauthlib
 
 mock
 pytest
+ipytest
 responses~=0.16.0
 PyHamcrest
 pytest-cov
