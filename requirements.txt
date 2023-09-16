@@ -5,6 +5,7 @@ shapely
 jupyter
 pandas
 requests
+scikit-learn
 python-dotenv
 geopandas==0.9.0
 nb_black
