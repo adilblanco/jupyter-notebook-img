@@ -5,10 +5,13 @@ name = "pypi"
 
 [packages]
 rtree="==0.9.7"
+minio="==7.1.17"
 pyproj="==3.5.0"
 shapely="==2.0.1"
 pandas="==2.0.3"
 jupyter="==1.0.0"
+boto3="==1.28.68"
+folium="==0.14.0"
 requests="==2.31.0"
 responses="==0.23.3"
 geopandas="==0.13.2"
